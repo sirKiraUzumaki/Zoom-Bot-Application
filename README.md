@@ -1,5 +1,6 @@
 # Zoom-Bot-Application
-A GUI which will join you zoom meetings/classes in a single click.
+A GUI which will join your zoom meetings/classes in a single click.
+![demo](https://user-images.githubusercontent.com/48526201/130332215-aaaec21d-bede-4a17-872c-64bbf39a077a.gif)
 
 
 # Setup
