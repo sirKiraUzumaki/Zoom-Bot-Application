@@ -22,7 +22,7 @@ You are done with the setup, now just follow the quick start up quide
 # Quick Start Up Guide
 1. Run this command to install all the required modules:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 2. You can directly run the main.py or run this command by changing the directory to the folder where all the files are present.
